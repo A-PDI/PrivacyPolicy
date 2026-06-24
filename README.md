@@ -26,4 +26,4 @@ Locally stored data remains on your device until you clear it (via the extension
 
 ## Contact
 
-For questions about this policy, contact: **[your-email@pdidiesel.com]**# PrivacyPolicy
+For questions about this policy, contact: **andy@pdidiesel.com**# PrivacyPolicy
